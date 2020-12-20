@@ -1,4 +1,6 @@
 # WebApiPayment
+This is one Web Api developed in .net core and the frontend is in Angular. 
+
 API Payment
 To Create New Project -- Angular --
 
